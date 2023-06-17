@@ -1,0 +1,8 @@
+G:\MojeVisualStudio\LAB3_04\bin\Debug\LAB3_04.exe.config
+G:\MojeVisualStudio\LAB3_04\bin\Debug\LAB3_04.exe
+G:\MojeVisualStudio\LAB3_04\bin\Debug\LAB3_04.pdb
+G:\MojeVisualStudio\LAB3_04\obj\Debug\LAB3_04.csproj.AssemblyReference.cache
+G:\MojeVisualStudio\LAB3_04\obj\Debug\LAB3_04.csproj.SuggestedBindingRedirects.cache
+G:\MojeVisualStudio\LAB3_04\obj\Debug\LAB3_04.csproj.CoreCompileInputs.cache
+G:\MojeVisualStudio\LAB3_04\obj\Debug\LAB3_04.exe
+G:\MojeVisualStudio\LAB3_04\obj\Debug\LAB3_04.pdb
